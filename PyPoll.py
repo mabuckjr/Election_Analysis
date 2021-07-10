@@ -85,7 +85,7 @@ print(winning_candidate_summary)
 # Using the with statement open the file as a text
 with open(file_to_save, "w") as txt_file:
           # Write some data to the file
-          txt_file.write("Hello World")
+          txt_file.write(winning_candidate_summary)
 
 # Close the file.
 election_data.close()

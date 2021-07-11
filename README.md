@@ -24,3 +24,6 @@ The analysis of the election shows:
   - Diana DeGette: 73.8% (272,892)
   - Raymon Anthony Doane: 3.1% (11,606)
 - Dianna Degette won the elction with a landslide victory
+## Challenge Overview
+
+## Challenge Summary

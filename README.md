@@ -33,6 +33,6 @@ The analysis of the election shows:
 -   Arapahoe: 6.7% (24,801)  
 - Denver County had the largest turnout with 82.8% of all votes cast (306,055 in total)
 
-[Here](https://github.com/mabuckjr/Election_Analysis/blob/main/Resources/Photo_of_Election_Results.PNG) is a photo of the printed output from my analysis
+[Here](https://github.com/mabuckjr/Election_Analysis/blob/main/Resources/Photo_of_Election_Results.PNG) is a photo of the printed output from my analysis.
 ## Summary
-
+The python code that I created both efficiently and accurately analyzed the senatorial election in Colorado. I believe that this code could be used again for other elections, but it would likely need to be modified to work in other elections. For instance, an election for a county representative may want to use this code as well, but the county column would not be helpful in that case. Instead, it might be helpful to have another description for where they live, like neighborhoods, zip codes, or cities. Conversely, the code would need to have even more detail on geographic location if it was for a national election. If we wanted to analyze the presidential election, we would likely want columns for congressional district, state, and possibly more. This would mean that I would need to create more for loops to run through and print the other columns of data. Lastly, if we wanted to use this code for an election that was electing the top 2-3 candidates (like a schoolboard), we would need to adapt the code to find and print the top 3 candidates (instead of just the 1 with the most votes).

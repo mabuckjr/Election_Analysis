@@ -26,7 +26,7 @@ The analysis of the election shows:
   - Charles Casper Stockham: 23.0% (85,213)
   - Diana DeGette: 73.8% (272,892)
   - Raymon Anthony Doane: 3.1% (11,606)
-- Dianna Degette won the elction with a landslide victory with 73.8% of the popular vote (272,892 total)
+- Dianna Degette won the elction in a landslide victory with 73.8% of the popular vote (272,892 total)
 - The results for each county were:
 -   Jefferson: 10.% (38,855)
 -   Denver: 82.8% (306,055) 
